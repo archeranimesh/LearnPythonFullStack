@@ -1,0 +1,3 @@
+[submodule "PSPythonPath"]
+	path = PSPythonPath
+	url = https://github.com/archeranimesh/PSPythonPath.git
