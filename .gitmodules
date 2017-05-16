@@ -1,3 +1,6 @@
 [submodule "PSPythonPath"]
 	path = PSPythonPath
 	url = https://github.com/archeranimesh/PSPythonPath.git
+[submodule "SBOPython"]
+	path = SBOPython
+	url = https://github.com/archeranimesh/SBOPython.git
